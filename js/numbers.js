@@ -26,6 +26,11 @@ console.log(discountedPrice);
 
 // Task 5
 
+const floatNumber = 12.78;
+const roundedDown = Math.floor(floatNumber);
+console.log(roundedDown);
+
+
 // Task 6
 const floatString = "45.67";
 const parsedFloat = parseFloat(floatString);
@@ -38,6 +43,11 @@ const parsedInt = parseInt(intString);
 console.log(parsedInt);
 
 // Task 8
+
+const number = 144;
+const sqrtNumber = Math.sqrt(number);
+console.log(sqrtNumber);
+
 
 // Task 9
 
