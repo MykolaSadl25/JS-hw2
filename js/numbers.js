@@ -55,6 +55,6 @@ const integer = 42;
 const stringNumber = "256";
 const convertedInt = parseInt(stringNumber);
 console.log(convertedInt);
-const convertedString = parseFloat(integer);
+const convertedString = integer.toString();
 console.log(convertedString);
 
